@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1514132898 source:c:\users\user\desktop\assembler\src\inputfile.cpp
+	"InputFile.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<windows.h>
+
+1514167301 c:\users\user\desktop\assembler\include\inputfile.h
+	<string>
+	<vector>
+	"screen.h"
+
+1513323482 source:c:\users\user\desktop\assembler\main.cpp
+	"handle.h"
+
+1514167301 c:\users\user\desktop\assembler\include\handle.h
+	"InputFile.h"
+
+1514165097 c:\users\user\desktop\assembler\include\screen.h
+	<string>
+	<vector>
+	<map>
+
+1514168532 source:c:\users\user\desktop\assembler\src\handle.cpp
+	"handle.h"
+	<sstream>
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+
+1514171621 source:c:\users\user\desktop\assembler\src\screen.cpp
+	"screen.h"
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<map>
+
+1513323482 source:e:\assembler\main.cpp
+	"handle.h"
+
+1514167302 e:\assembler\include\handle.h
+	"InputFile.h"
+
+1514167302 e:\assembler\include\inputfile.h
+	<string>
+	<vector>
+	"screen.h"
+
+1514165098 e:\assembler\include\screen.h
+	<string>
+	<vector>
+	<map>
+
+1514168534 source:e:\assembler\src\handle.cpp
+	"handle.h"
+	<sstream>
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+
+1514132898 source:e:\assembler\src\inputfile.cpp
+	"InputFile.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<windows.h>
+
+1514171622 source:e:\assembler\src\screen.cpp
+	"screen.h"
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<map>
+
+1514630375 source:c:\users\a8495\documents\assembler\main.cpp
+	"handle.h"
+
+1514631721 c:\users\a8495\documents\assembler\include\handle.h
+	"InputFile.h"
+
+1514167302 c:\users\a8495\documents\assembler\include\inputfile.h
+	<string>
+	<vector>
+	"screen.h"
+
+1514165098 c:\users\a8495\documents\assembler\include\screen.h
+	<string>
+	<vector>
+	<map>
+
+1552963801 source:c:\users\a8495\documents\assembler\src\handle.cpp
+	"handle.h"
+	<sstream>
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+
+1552964183 source:c:\users\a8495\documents\assembler\src\inputfile.cpp
+	"InputFile.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<windows.h>
+
+1514201149 source:c:\users\a8495\documents\assembler\src\screen.cpp
+	"screen.h"
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<map>
+
