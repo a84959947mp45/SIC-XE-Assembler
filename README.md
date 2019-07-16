@@ -1,1 +1,1 @@
-Assembler
+SIC/XE A
