@@ -24,7 +24,7 @@ op_code2.txt   將OP_code.txt整理並將十六進位的編碼改為二進位 �
 ![](https://github.com/a84959947mp45/SIC-XE-Assembler/blob/master/img/answerview1.PNG)
 
 
-所使用的OP_code也會顯示
+所使用的symbol_table及OP_code也會顯示
 
 ![](https://github.com/a84959947mp45/SIC-XE-Assembler/blob/master/img/answerview2.PNG)
 
