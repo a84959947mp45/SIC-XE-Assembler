@@ -11,13 +11,15 @@ Figure2.15.txt 為範例組合語言格式
 
 OP_code.txt 為SIC/XE所使用的指令集格式(包含指令種類、指令16進位的機器語言、assembler_directive)
 
-output:
+結果:
+
+產出檔案:
 
 Figure2.16.txt 將Figure2.15.txt每行進行標號
 
 op_code2.txt   將OP_code.txt整理並將十六進位的編碼改為二進位 新增一行至檔案
 
-結果:
+螢幕顯示:
 
 將輸入的組合語言新增loc行跟object_code行，以彩色部份顯示
 
